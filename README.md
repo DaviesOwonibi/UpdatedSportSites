@@ -1,2 +1,5 @@
-# UpdatedSportSites
-I was taking a look at the Nike website where I noticed how clogged up it was, at the very bare bones it is an Online store, but I believe shopping online can be made to be an enjoyable experience where the look of the site can make you excited. Hence I revamped the Homepage for both Nike and Adidas
+# Updated Sport Sites
+While browsing the Nike website, I noticed how cluttered it felt. At its core, it is an online store, but I strongly believe that shopping online can be transformed into an enjoyable experience with an exciting site design. As a result, I decided to revamp the homepage for both Nike and Adidas.
+
+About the Project:
+The main goal of this project was to create a more user-friendly and visually appealing homepage for two popular brands, Nike and Adidas. I aimed to declutter the interface and make the online shopping experience more engaging and enjoyable for users.
